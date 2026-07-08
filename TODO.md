@@ -13,3 +13,5 @@ MySharedPtr
 MyUniquePtr
 
 MyThreadPool
+
+MyMemcpy
